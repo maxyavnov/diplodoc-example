@@ -1,5 +1,7 @@
 # Basic "About page" 
 
+Ya Такой молодец
+
 This is an example for basic documenation project.
 It contains simple structure with couple of pages (this page, another page) and nested sub-section. 
 
