@@ -1,0 +1,11 @@
+title: Documentation Project Template
+href: index.yaml
+items: 
+  - name: Описание 1
+    href: aboutru.md
+  - name: Дополнительная страница 2 
+    href: page-test2.md
+  - name: Sub-Section 
+    include:
+      path: sub-section-ru/toc.yaml
+      mode: link
