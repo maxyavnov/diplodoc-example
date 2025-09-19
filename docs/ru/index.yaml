@@ -1,0 +1,12 @@
+title: Имя документа
+description: Описание документа
+meta:
+  title: Метаданные
+  noIndex: true
+links:
+- title: Первый раздел
+  description: Описание первого раздела
+  href: path/to/file
+- title: Второй раздел
+  description: Описание второго раздела
+  href: path/to/file
